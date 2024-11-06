@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochanabandara03&label=Profile%20views&color=0e75b6&style=flat" alt="lochanabandara03" /> </p>
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 - 🌱 I’m currently learning **Machine Learning and Object Detection**
 
 - 📝 I regularly write articles on [https://medium.com/@lochanabandara2003](https://medium.com/@lochanabandara2003)
