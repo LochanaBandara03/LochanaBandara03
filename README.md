@@ -1,4 +1,4 @@
-ter## Hi there 👋
+## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Lochana Bandara</h1>
 <h3 align="center">A second year Computer Engineering undergraduate at Faculty of Engineering, University of Sri Jayewardenepura</h3>
