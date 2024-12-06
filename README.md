@@ -13,6 +13,8 @@
 
 - 🤗 Hugging Face - https://huggingface.co/LochanaBandara03
 
+- Kaggle - https://www.kaggle.com/lochanabandara
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
