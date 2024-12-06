@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **lochanadisala2003@gmail.com**
 
+- 🤗 Hugging Face - https://huggingface.co/LochanaBandara03
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
