@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lochana Bandara</h1>
-<h3 align="center">A second year Computer Engineering undergraduate at Faculty of Engineering, University of Sri Jayewardenepura</h3>
+<h3 align="center">A third year Computer Engineering undergraduate at Faculty of Engineering, University of Sri Jayewardenepura</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochanabandara03&label=Profile%20views&color=0e75b6&style=flat" alt="lochanabandara03" /> </p>
 
